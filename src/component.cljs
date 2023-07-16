@@ -45,7 +45,6 @@
 
 (defn main [{:keys [block-uid]} & args]
     (let [radar (r/atom (take (int (last args)) (remove-duplicates-and-nil (get-page (reverse (sort-by :edit/time (get-pages)))))))]
-      (pp/pprint (int (first args)))
       [bp-callout {
                :title (first args)
                :intent "primary"
