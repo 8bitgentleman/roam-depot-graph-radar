@@ -1,7 +1,7 @@
 A Roam Research component to show the last edited pages in a graph. Useful for multiplayer graph or graphs not visited often.
 
 ## Example 
-<img src="https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif" width="500"></img>
+<img src="https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/example.gif" width="600"></img>
 
 ## Setup 
 First make sure that __User code__ is enabled in your settings. This allows custom components in your graph.
@@ -13,5 +13,5 @@ Easiest way to insert the component is though Roam's native template menu. Simpl
 
 <img src="https://github.com/8bitgentleman/roam-depot-tidy-todos/raw/main/template.png" max-width="400"></img>
 
-<img src="https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png" max-width="400"></img>
+<img src="https://github.com/8bitgentleman/roam-depot-graph-radar/raw/main/explainer.png" max-width="300"></img>
 
