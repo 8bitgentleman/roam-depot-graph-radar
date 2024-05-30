@@ -5,7 +5,7 @@ const codeBlockUID = 'roam-render-radar-cljs';
 const cssBlockUID = 'roam-render-radar-css';
 const renderString = `{{[[roam/render]]:((${codeBlockUID}))`;
 const replacementString = '{{graph radar}}';
-const version = 'v3';
+const version = 'v4';
 const titleblockUID = 'roam-render-radar';
 const cssBlockParentUID = 'radar-css-parent';
 
